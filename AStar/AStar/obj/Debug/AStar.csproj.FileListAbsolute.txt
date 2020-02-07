@@ -11,3 +11,6 @@ C:\Users\Elysia.Lopez\source\repos\AStar\AStar\obj\Debug\AStar.pdb
 \\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
 \\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\obj\Debug\AStar.exe
 \\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\obj\Debug\AStar.pdb
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\GitHub\AStar\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\GitHub\AStar\AStar\AStar\obj\Debug\AStar.exe
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\GitHub\AStar\AStar\AStar\obj\Debug\AStar.pdb
