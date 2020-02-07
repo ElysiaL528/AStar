@@ -1,0 +1,13 @@
+C:\Users\Elysia.Lopez\source\repos\AStar\AStar\bin\Debug\AStar.exe.config
+C:\Users\Elysia.Lopez\source\repos\AStar\AStar\bin\Debug\AStar.exe
+C:\Users\Elysia.Lopez\source\repos\AStar\AStar\bin\Debug\AStar.pdb
+C:\Users\Elysia.Lopez\source\repos\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+C:\Users\Elysia.Lopez\source\repos\AStar\AStar\obj\Debug\AStar.csproj.CoreCompileInputs.cache
+C:\Users\Elysia.Lopez\source\repos\AStar\AStar\obj\Debug\AStar.exe
+C:\Users\Elysia.Lopez\source\repos\AStar\AStar\obj\Debug\AStar.pdb
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\bin\Debug\AStar.exe.config
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\bin\Debug\AStar.exe
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\bin\Debug\AStar.pdb
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\obj\Debug\AStar.csprojAssemblyReference.cache
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\obj\Debug\AStar.exe
+\\GMRDC1\Folder Redirection\Elysia.Lopez\Documents\Visual Studio 2019\Projects\AStar\AStar\obj\Debug\AStar.pdb
